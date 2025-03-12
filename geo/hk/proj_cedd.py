@@ -80,7 +80,9 @@ def proj_cedd(bdlg_ply, veg_ply, ground_ply, png_path):
 # folder = '/Users/yijie/Documents/download-6f0c76fa-5b5f-4fe4-a8ff-364d3e5c4afb/ply/'
 # folder = '/Users/yijie/Documents/download-1f65056d-2aac-44dd-91cb-5c286ae993e5/ply/'
 # folder = "/Volumes/SSD/11SW7D/ply/"
-folder = "/Volumes/SSD/11SW7C/ply/"
+# folder = "/Volumes/SSD/11SW7C/ply/"
+# folder = "/Volumes/SSD/11NW15C/ply/"
+folder = "/Volumes/SSD/11NW15A/ply/"
 bldg_path = folder + 'building.ply'
 veg_path = folder + 'vegetation.ply'
 ground_path = folder + 'ground.ply'
